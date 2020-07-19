@@ -1,0 +1,30 @@
+adduser hema
+
+ passwd hema
+
+new passwd Pesalahema7
+
+retype passwd Pesalahema7
+
+vi /etc/ssh/sshd_config
+
+#passwordauthinticaton
+
+remove #
+
+service sshd reload
+
+/etc/init.d/sshd reload
+
+cat /etc/passwd
+
+exit 
+
+login :hema
+passwd:Pesalahema7
+whoami
+
+
+inko user kuda create chesanu
+login:ansadmin
+passwd:ansadmin

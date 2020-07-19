@@ -1,0 +1,29 @@
+tomcat port number === 8080
+ 
+url :  http://ip:8080
+
+jenkins port number == http://15.206.93.155:8001/
+
+userid:jenkins
+pwd:jenkins
+
+nexus port number  ===
+
+url : https://ip:
+user name :admin
+Password: admin	
+
+
+===========================================================
+
+java installation url     ============> https://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/  ,,, https://tecadmin.net/install-java-on-fedora/
+=======================
+
+tomcat installation url :   ==========>  https://linuxconfig.org/how-to-install-apache-tomcat-on-linux-redhat-8
+
+maveen installation url :  ===========> https://tecadmin.net/install-apache-maven-on-centos/
+
+nexus installation url :    ==========>  https://devopscube.com/how-to-install-latest-sonatype-nexus-3-on-linux/
+
+jenkins installation url:  ===========> https://www.linuxtechi.com/install-configure-jenkins-on-centos-7-rhel-7/
+
